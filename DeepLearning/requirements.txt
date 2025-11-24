@@ -1,0 +1,7 @@
+tensorflow
+kaggle
+split-folders
+numpy
+Pillow
+matplotlib
+seaborn
